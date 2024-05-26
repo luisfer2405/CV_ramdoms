@@ -1,4 +1,4 @@
-# CV_ramdoms
+# VENTA DE PRODUCTOS DE CONSTRUCION.
 Se propone un sistema de control con los siguientes elementos clave:
 
 Actores:
